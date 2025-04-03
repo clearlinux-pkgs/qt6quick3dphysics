@@ -74,6 +74,7 @@ libQt6Quick3DPhysics.so.6:QDynamicRigidBody::gravityEnabledChanged()@@Qt_6_PRIVA
 libQt6Quick3DPhysics.so.6:QDynamicRigidBody::inertiaMatrixChanged()@@Qt_6_PRIVATE_API
 libQt6Quick3DPhysics.so.6:QDynamicRigidBody::inertiaTensorChanged()@@Qt_6_PRIVATE_API
 libQt6Quick3DPhysics.so.6:QDynamicRigidBody::isKinematicChanged(bool)@@Qt_6_PRIVATE_API
+libQt6Quick3DPhysics.so.6:QDynamicRigidBody::isSleepingChanged(bool)@@Qt_6_PRIVATE_API
 libQt6Quick3DPhysics.so.6:QDynamicRigidBody::linearAxisLockChanged()@@Qt_6_PRIVATE_API
 libQt6Quick3DPhysics.so.6:QDynamicRigidBody::massChanged(float)@@Qt_6_PRIVATE_API
 libQt6Quick3DPhysics.so.6:QDynamicRigidBody::massModeChanged()@@Qt_6_PRIVATE_API
@@ -81,6 +82,7 @@ libQt6Quick3DPhysics.so.6:QDynamicRigidBody::setAngularAxisLock(QDynamicRigidBod
 libQt6Quick3DPhysics.so.6:QDynamicRigidBody::setDensity(float)@@Qt_6_PRIVATE_API
 libQt6Quick3DPhysics.so.6:QDynamicRigidBody::setGravityEnabled(bool)@@Qt_6_PRIVATE_API
 libQt6Quick3DPhysics.so.6:QDynamicRigidBody::setIsKinematic(bool)@@Qt_6_PRIVATE_API
+libQt6Quick3DPhysics.so.6:QDynamicRigidBody::setIsSleeping(bool)@@Qt_6_PRIVATE_API
 libQt6Quick3DPhysics.so.6:QDynamicRigidBody::setLinearAxisLock(QDynamicRigidBody::AxisLock)@@Qt_6_PRIVATE_API
 libQt6Quick3DPhysics.so.6:QDynamicRigidBody::setMass(float)@@Qt_6_PRIVATE_API
 libQt6Quick3DPhysics.so.6:QDynamicRigidBody::setMassMode(QDynamicRigidBody::MassMode)@@Qt_6_PRIVATE_API
